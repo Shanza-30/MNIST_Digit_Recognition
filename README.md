@@ -30,4 +30,6 @@ It includes data preprocessing, model training with Logistic Regression and CNN,
 
 ## 🛠️ Tech Stack
 - **Language:** Python  
-- **Libraries:** NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow/Keras  
+- **Libraries:** NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow/Keras
+
+
