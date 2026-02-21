@@ -5,6 +5,7 @@ It includes data preprocessing, model training with Logistic Regression and CNN,
 
 ## 🚀 Project Workflow
 
+
 1. **Data Preprocessing**
    - Loaded MNIST dataset  
    - Normalized pixel values (0–255 → 0–1)  
